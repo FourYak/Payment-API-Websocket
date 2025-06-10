@@ -15,7 +15,7 @@ SQLAlchemy para persistência de dados
 
 Geração dinâmica de QR Codes
 
-##⚡ Funcionalidades Incríveis
+## ⚡ Funcionalidades Incríveis
 Criação instantânea de pagamentos Pix com QR Code
 
 Monitoramento em tempo real do status do pagamento
